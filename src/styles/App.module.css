@@ -1,0 +1,12 @@
+html {
+  box-sizing: border-box;
+  background: #A3D8FF;
+  font-family:Verdana;
+  font-size: 20px;
+  font-weight: 200;
+  scrollbar-width: none;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
